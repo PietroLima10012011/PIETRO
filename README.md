@@ -1,1 +1,25 @@
-# P
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet "href="style.css"
+    <title>Pimpão gamer</title>
+    
+</head>
+<h1>LEGO BATMAM Legacy of the Dark Knight</h1>
+<h2>O Legado do Cavaleiro das Trevas</h2>
+<p>O novo LEGO Batman: Legacy of the Dark Knight (O Legado do Cavaleiro das Trevas) vai além do tradicional formato de quebra-cabeças e traz um mundo aberto detalhado, combate inspirado na série Arkham, e homenagens ao legado do herói, unindo décadas de histórias em uma experiência definitiva..</p>
+<h2>A franquia de jogos é famosa por suas recriações fiéis e divertidas de Gotham City.</h2>
+<p>Trilogia Clássica: Os primeiros jogos focavam em centenas de personagens jogáveis, quebra-cabeças e na icônica construção de blocos.
+<h2>Lego Batman: O Legado do Cavaleiro das Trevas: Trazendo um visual moderno em mundo aberto, o título foca na narrativa profunda e em um sistema de combate refinado, semelhante à série Arkham.</h2>
+<p>O Batman é um dos super-heróis mais icônicos da cultura pop, criado por Bob Kane e Bill Finger em 1939. Sob a máscara está Bruce Wayne, um bilionário que, após testemunhar o assassinato de seus pais, dedica sua vida a combater o crime em Gotham City usando intelecto, artes marciais e tecnologia de ponta. 
+<h2>Origem e História</h2>
+<p>Bruce Wayne jurou vingança e justiça após a trágica morte de seus pais. Para isso, viajou pelo mundo treinando diversas artes marciais, técnicas de caça e infiltração. Ao retornar a Gotham, assumiu o manto do Morcego para combater a corrupção e os criminosos. 
+
+
+<body>
+</body>
+</html>
+
+<footer>Pietro Lima</footerLego 
