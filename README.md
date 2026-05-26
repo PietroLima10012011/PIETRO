@@ -23,3 +23,39 @@
 </html>
 
 <footer>Pietro Lima</footerLego 
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+
+h1 {
+  color: #222;
+  text-align: center;
+}
+
+h2 {
+  color: #555;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* Rodapé */
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #464545;
+}
